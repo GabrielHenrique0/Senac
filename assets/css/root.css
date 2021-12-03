@@ -1,0 +1,19 @@
+:root{
+    --color1: #A2BEFF ;
+    --color2: #004A8D;
+    --color3: #F7941E;
+    --color1-variation: #ced9f1;
+}
+*{
+    box-sizing: border-box;
+}
+.FontP{
+    font-family: 'Press Start 2P', cursive;
+}
+.container{
+    padding: 1rem;
+}
+a{
+    color: unset;
+    text-decoration: none;
+}
