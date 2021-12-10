@@ -18,3 +18,8 @@ footer{
 .creditos img{
     width: 4rem;
 }
+
+#logoFooter {
+    width: 200px;
+    float: left;
+}
